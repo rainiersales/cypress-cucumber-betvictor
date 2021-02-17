@@ -1,0 +1,9 @@
+{
+  "ignoreTestFiles": "*.js",
+  "testFiles": "**/*.{feature,features}",
+  "env": {
+    "baseUrl": "https://form.jotform.com/210137027408345",
+    "from": 1900,
+    "to": 2000
+  }
+}
