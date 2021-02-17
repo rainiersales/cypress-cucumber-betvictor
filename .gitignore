@@ -1,4 +1,6 @@
 # User-specific stuff:
 .idea/
 node_modules/
+cypress/videos/
 package-lock.json
+cypress/videos/Features/JotForm.feature.mp4

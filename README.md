@@ -2,6 +2,9 @@
 ### [BET VICTOR]
 Sample using of Cypress with Cucumber to demonstrate automation skills.
 
+### Reports
+https://dashboard.cypress.io/projects/k2c9bq/runs/1/overview
+
 ### Run scenarios tests in terminal
 ```
 npm install
